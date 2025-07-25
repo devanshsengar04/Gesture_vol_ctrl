@@ -26,7 +26,6 @@ This project is a **hand gesture-based system volume controller** that lets you 
 
 ## 🛠️ Modules Used
 
-![Modules](modules.png)
 
 | Module     | Purpose                                      |
 |------------|----------------------------------------------|
@@ -69,7 +68,7 @@ Here are some demo results showing different hand positions and their correspond
 
 | Volume: 0% | Volume: 40% | Volume: 100% |
 |------------|-------------|--------------|
-| ![0%](zero.png) | ![40%](forty.png) | ![100%](hundred.png) |
+| ![0%](images/zero.png) | ![40%](images/forty.png) | ![100%](images/hundred.png) |
 
 ---
 
